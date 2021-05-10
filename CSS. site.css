@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(219, 219, 219);
+}
+.titulo{
+    font-family: andalus;
+}
+
+#titulo1{
+    text-align: center;
+    font-size: 1.0em;
+    color: aliceblue;
+    border: 1px solid #000;
+    background-color: rgb(182, 35, 65);
+}
+
+#paragrafo{
+    margin: 10px;
+    padding: 5px;
+    font-size: 16px;
+    color: maroon;
+    font-family: calibri;
+}
+.imagens{
+    margin: 10px;
+    padding: 5px;
+    font-family: andalus;
+}
+.tabela{
+    border-collapse: collapse;
+    width: 75%;
+    margin: 10px;
+    padding: 5px;
+}
+td, th{
+    border: 2px solid #000;
+}
+th{
+    background-color: aliceblue;
+    color: rgb(182, 35, 65);
+    font-family: andalus;
+}
+td{
+    background-color: seashell;
+    color: black;
+    font-family: oswald;
+    text-align: center;
